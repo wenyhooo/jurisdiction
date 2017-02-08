@@ -47,7 +47,8 @@ typedef NS_ENUM(NSInteger, KSystemPermissions) {
     KALAssetsLibrary,       //相册
     KCLLocationManager,     //地理位置信息
     KAVAudioSession,        //音频
-    KABAddressBook          //手机通讯录
+    KABAddressBook,          //手机通讯录
+    KCTCellularData          //网络数据
 };
 
 ```
